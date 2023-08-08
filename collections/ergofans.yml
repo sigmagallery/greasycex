@@ -1,0 +1,21 @@
+nfts:
+- tokenId: ace45d326044793ea04b81bd75dc25149b7dffb9400b1fa91141944840f5b485
+  name: Join The Grease Lords
+  description: Test NFT for GCX
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifhaf5uihd652kpkin4inipip4im4fhkjcpzvg2xt3lr5tarp3opi
+- tokenId: b2e441622afaec47aa3d1b33ad6bb2d0dd8d5dd9063f1e9814e9ab0631fbb57e
+  name: SBE RARE TESTER
+  description: SBE RARE TESTER NFT
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiecxgc5rsvrehovn4irbaqrdu72jzuwe2dr3ci3fc2bj76t62k4ya
+- tokenId: 7bc1a6c357579164c7c95b812c9cf514f16d0647709ee8da5b40de69e1b85b15
+  name: SBE Test NFT
+  description: 'SBE TEST NFT '
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeib7xqygrfyox3x3cfothv5ia44vwk2dvh3ukb4x26hiyffxfwupjy
+- tokenId: 77657aa10dc5f63038beb1a688557b0d3585348717b052b7971ceab0679a539b
+  name: SBE UR Tester
+  description: SBE ULTRA RARE TESTER
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidptnshvgga2qoemhnzwklelxjonltm72jt6hz2z2qwop2auevr2m
