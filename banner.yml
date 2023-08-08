@@ -1,15 +1,13 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: GreasyCEX
+description: Baseless Project born for entertainment in support of ERGO.
+image: https://raw.githubusercontent.com/sigmagallery/greasycex/main/banner.webp
+pfp: https://raw.githubusercontent.com/sigmagallery/greasycex/main/pfp.webp
 mintAddresses:
   - 
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/GreasyCex
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
+  - label: Telegram
+    url: https://t.co/e8wLtK5CeN
+    icon: fa-brands fa-telegram fa-fw
