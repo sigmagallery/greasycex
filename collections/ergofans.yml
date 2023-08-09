@@ -1,211 +1,61 @@
-nfts:
-- tokenId: 9a663c9cb83a99794e6a610ac461bf373cfac55a707274a4f1059a725f98d069
-  name: CYTALIK
-  description: >-
-    CYTALIK ErgoFans Common Card, by GreasyCEX. Artwork created in collaboration
-    with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeiebvt4o7bkgzskpgbfd5jl7pljm4of6pk6fhbnsz2fsheodhe6lmi
-- tokenId: b84e1fc75b8e9f3da56d8eaaba7b1e4d20974337bff2c1706d9355d3ad74dcf4
-  name: HOSKINAUT
-  description: >-
-    HOSKINAUT ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeie2lmeqbdacsplhfiiul6bmdu534xubptenu4oqcki4lx27ousamy
-- tokenId: 634a3fbc3bd59bcc13b81a7718ce692b7a662a009c1d5bb340fab6267de2879d
-  name: KUSHY KUSHTI
-  description: >-
-    KUSHY KUSHTI ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1. 
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeif6ykjsevgwqptj7u7nvfyiqtj4tueakid7z6yum2g4liiqpjiel4
-- tokenId: 83c1b9487ccda206a0a996f42dc0682872b2fff3d20fa2a88b026286bcf643ee
-  name: LUMBER JOE
-  description: >-
-    LUMBER JOE ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeiefwfvubgcocfakdrzj56i4hh4mst2gp4bg45jkiox4aahlu6chjq
-- tokenId: 3ede189a8e428043d4c122fb4c0933ee932cc3c800a8751f70590a01e5f70e88
-  name: LUNAGRATZ
-  description: >-
-    LUNAGRATZ ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeigpkcjjawbk2onfkk5txcyatodiba4ogis6ecy3h6raxk4o7irmyu
-- tokenId: e4cd7223e477aed9d72ed4ce6257f54087de35c5184204e4ad2050633ee0a336
-  name: SB ELLISON
-  description: >-
-    SB ELLISON ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeic5cbihq7e6jvhze6p6ashfuzrusbrhvmwenlzvp6bgbyqt6idwpy
-- tokenId: e93579808336ad36f59e919f8262ff3442bc80aa6e80c18150163a7449f62b55
-  name: SCARY GARY
-  description: >-
-    SCARY GARY ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeihbmwk73l4iws36lodh7r5szdcljx74gie7gl2gu3m6ccsafoqkgq
-- tokenId: f2a9bd257f826fb34f243e8cdb48a11c9ae32cf010ce8bfc7245ab85259bcffe
-  name: SHITCOIN KING
-  description: >-
-    SHITCOIN KING ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeieskcxirwm32ke5t2ttfthnp6j2ueci72vox725i2svh7ilwrsmvu
-- tokenId: 4c5be201219ca8e54778a5150f4fa46e845d2cd409eb5c15e0e8c495bdb3692b
-  name: TEA-MAN DAN
-  description: >-
-    TEA-MAN DAN ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeidesg6vluq4mwkwdmsowsjfjiz4vviwywocc2dqgbvcnzsfhfmpym
-- tokenId: 1a713cad4d063a4de6d90f3616768a12a7fa4065ea8db8d08f7db2fe25a0d7ba
-  name: THE KROWELL
-  description: >-
-    THE KROWELL ErgoFans Common Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeigesfdtkhqpneicvhvc3vv3sem7evqzt6wkqbulvqsiyhd7kekke4
-- tokenId: cecafb4c19ae73aec5e019bd87afbde635c0792bfc28dc4ebea77c88be150cf2
-  name: CYTALIK RARE
-  description: >-
-    CYTALIK ErgoFans Rare Card, by GreasyCEX. Artwork created in collaboration
-    with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeibl2a3bq64pxgl2eejsifhg5bkd325peripvoawfqcr6u5yn5kl4u
-- tokenId: 1897ea88624dec2c3d8076ea2dbcc70f15c76ffb32d067cb11352c8de424c954
-  name: HOSKINAUT RARE
-  description: >-
-    HOSKINAUT ErgoFans Rare Card, by GreasyCEX. Artwork created in collaboration
-    with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeicfy647msu4kkjpmb2smlx4r4wx7xklatbbey4jmipqijre2x5hbq
-- tokenId: e5db92739b4713ae22c2a0c49ba3e21412e53ae6d35b29a4ffa9a9a81180aff1
-  name: KUSHY KUSHTI RARE
-  description: >-
-    KUSHY KUSHTI ErgoFans Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeibjtyvr4izxkgbq4sklayfd2k7climsv3ibkjuussvnwfcrru55xa
-- tokenId: 4611bf66290da484251dfa835e6f46a2bad06837d60c68837d138c6f269a3717
-  name: LUMBER JOE RARE
-  description: >-
-    LUMBER JOE ErgoFans Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeiebg7buzvrlf24lm5s3nq5olw5qa24dmfeyxh7pmdma5yowhbce7m
-- tokenId: 4cb88127935629f94d171a70767e5f6533767ed5dd8307b978fb35706c0fd9b7
-  name: LUNAGRATZ RARE
-  description: >-
-    LUNAGRATZ ErgoFans Rare Card, by GreasyCEX. Artwork created in collaboration
-    with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeihxzrnkumn76qjhpju37jitlt7gyjn2mmgqai5wlhj2rw6x22iwl4
-- tokenId: b2be14c77833fbba22eab0d5e303e2e7e80c11bda17b87eff3de548b485110f4
-  name: SB ELLISON RARE
-  description: >-
-    SB ELLISON ErgoFans Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeiagssffyngrwoh4qjnzo4zyjvpu33ucickrcpyugshc7x2eq7cuxa
-- tokenId: 32585d3884cc121288d51a994c310e5fd1002953ddaff7d2ee7516c2fb582aac
-  name: SCARY GARY RARE
-  description: >-
-    SCARY GARY ErgoFans Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeibxq6r4jlvd6uq2ke4fgmmq2sixx5hz6bkfnkuo4tflod22if6bpu
-- tokenId: b06cf03057fdec65cb3c9568f6ae009b5f9a17583e094f0f53c16c9fcbdfc396
-  name: SHITCOIN KING RARE
-  description: >-
-    SHITCOIN KING ErgoFans Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeicbhpelqoalp6wft5ckz46gptyj26ntmudfigwnyjtltsig22xydy
-- tokenId: 6f0d96ecfeee36fae7c23ce37d11194ac51b5412a8102cc8ac66a3cea957eaa2
-  name: TEA-MAN DAN RARE
-  description: >-
-    TEA-MAN DAN ErgoFans Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeie7oaldmhbbu3qcs6q7ill66bbgqegmjiarqldl4dzl7ekhxpppbe
-- tokenId: 7ae134d70aa78b8e498dd11720456896bc971d67cda88685879983517a8e748f
-  name: THE KROWELL RARE
-  description: >-
-    THE KROWELL ErgoFans Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeicmtmo5b3uqjujzlzmn5igaji33wikt5t2evtdcbzwyefhgjvmawq
-- tokenId: c3b4768b7f0733639e5d016a39efda1e3e832d3417f8d00dbf6c5ecf10ff82d3
-  name: CYTALIK ULTRA RARE
-  description: >-
-    CYTALIK ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeiamnpktfzy45jnyhesxocdmibc26ymz6nn7ngyibfcauy2vrtxbr4
-- tokenId: b0e2ffe45a5c5d6cc33036bffc21696ba34b2f2b51b59aa1724afede71cbba8c
-  name: HOSKINAUT ULTRA RARE
-  description: >-
-    HOSKINAUT ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeicfidstb7nwhtupxnwr3sg5wy7dv54lkbptjjk442o6mufthxdv2a
-- tokenId: b0f98d8492876f3557f462db087a7920230165ff15fa245b36a4655393fe1709
-  name: KUSHY KUSHTI ULTRA RARE
-  description: >-
-    KUSHY KUSHTI ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeib4w2z7mg5wupfkda4qrb3fi5nyi7ko6qvtaquy2cbhiypuopt4am
-- tokenId: 63e92413e4516b66eb275e8fff1bfc69bf835d571dcae02a17feda8f2b133bb6
-  name: LUMBER JOE ULTRA RARE
-  description: >-
-    LUMBER JOE ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeidxvpibpff6pmvtmphtuglbdxx2flcf7q2deherfpj6nmtfmpffxu
-- tokenId: 67e3e23661d5b450286afd04f7d97e857e233329b1e1b1a84317cd46c18a55c8
-  name: LUNAGRATZ ULTRA RARE
-  description: >-
-    LUNAGRATZ ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeih3pviyxsgu6vohl7ge2665wba7elkgop7o6riozpicnjatxdcxaq
-- tokenId: b46bab292977e3378fb09bf30d7628e8d488eddb5175e53574ea55f54b497fe9
-  name: SB ELLISON ULTRA RARE
-  description: >-
-    SB ELLISON ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeibq3igxilqa4teuihuaaouwrdievghfwi2hzgk6cltqoxdt7iefq4
-- tokenId: c25a51b25e761acf5d56954cf1a678c0226ecb8616787ef1980a6f540ae3b640
-  name: SCARY GARY ULTRA RARE
-  description: >-
-    SCARY GARY ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeifnbspsdzxpswxd72lhpvkcfaxqdnnmpymc3rfjza2us5bryuitle
-- tokenId: df8e1f2260f78199afefd3794ed6d527630aa28fec1af34913f48df1f4c6bfc5
-  name: SHITCOIN KING ULTRA RARE
-  description: >-
-    SHITCOIN KING ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeigxqfnfc6eusfitxacx5sazhgfcy6jmnxamgqc2iw6w6qwsm5kloi
-- tokenId: 2f9cfc1dc96d3668957673ac0ed1b4a1c62e44cbc940f65827f787d34bc4e8c1
-  name: TEA-MAN DAN ULTRA RARE
-  description: >-
-    TEA-MAN DAN ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeigd2idmybga4irwalzsfx63ibcwiw4gbo2cyhdwwf6gcnpe2274xi
-- tokenId: 213c853383e03cedf0ded4d83aa5e44e1d5c8e1ed2f2482a419d5dad155b8975
-  name: THE KROWELL ULTRA RARE
-  description: >-
-    THE KROWELL ErgoFans Ultra Rare Card, by GreasyCEX. Artwork created in
-    collaboration with @Foeniculum NFTs for GreasyCEX Mission #1.
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeih2ya6rmcnx2s3manglkpjfqpldjw5t2xs4jkzohaysxostqvkv6i
+tokenIds:
+- name: "CYTALIK"
+  tokenId: 9a663c9cb83a99794e6a610ac461bf373cfac55a707274a4f1059a725f98d069
+- name: "HOSKINAUT"
+  tokenId: b84e1fc75b8e9f3da56d8eaaba7b1e4d20974337bff2c1706d9355d3ad74dcf4
+- name: "KUSHY KUSHTI"
+  tokenId: 634a3fbc3bd59bcc13b81a7718ce692b7a662a009c1d5bb340fab6267de2879d
+- name: "LUMBER JOE"
+  tokenId: 83c1b9487ccda206a0a996f42dc0682872b2fff3d20fa2a88b026286bcf643ee
+- name: "LUNAGRATZ"
+  tokenId: 3ede189a8e428043d4c122fb4c0933ee932cc3c800a8751f70590a01e5f70e88
+- name: "SB ELLISON"
+  tokenId: e4cd7223e477aed9d72ed4ce6257f54087de35c5184204e4ad2050633ee0a336
+- name: "SCARY GARY"
+  tokenId: e93579808336ad36f59e919f8262ff3442bc80aa6e80c18150163a7449f62b55
+- name: "SHITCOIN KING"
+  tokenId: f2a9bd257f826fb34f243e8cdb48a11c9ae32cf010ce8bfc7245ab85259bcffe
+- name: "TEA-MAN DAN"
+  tokenId: 4c5be201219ca8e54778a5150f4fa46e845d2cd409eb5c15e0e8c495bdb3692b
+- name: "THE KROWELL"
+  tokenId: 1a713cad4d063a4de6d90f3616768a12a7fa4065ea8db8d08f7db2fe25a0d7ba
+- name: "CYTALIK RARE"
+  tokenId: cecafb4c19ae73aec5e019bd87afbde635c0792bfc28dc4ebea77c88be150cf2
+- name: "HOSKINAUT RARE"
+  tokenId: 1897ea88624dec2c3d8076ea2dbcc70f15c76ffb32d067cb11352c8de424c954
+- name: "KUSHY KUSHTI RARE"
+  tokenId: e5db92739b4713ae22c2a0c49ba3e21412e53ae6d35b29a4ffa9a9a81180aff1
+- name: "LUMBER JOE RARE"
+  tokenId: 4611bf66290da484251dfa835e6f46a2bad06837d60c68837d138c6f269a3717
+- name: "LUNAGRATZ RARE"
+  tokenId: 4cb88127935629f94d171a70767e5f6533767ed5dd8307b978fb35706c0fd9b7
+- name: "SB ELLISON RARE"
+  tokenId: b2be14c77833fbba22eab0d5e303e2e7e80c11bda17b87eff3de548b485110f4
+- name: "SCARY GARY RARE"
+  tokenId: 32585d3884cc121288d51a994c310e5fd1002953ddaff7d2ee7516c2fb582aac
+- name: "SHITCOIN KING RARE"
+  tokenId: b06cf03057fdec65cb3c9568f6ae009b5f9a17583e094f0f53c16c9fcbdfc396
+- name: "TEA-MAN DAN RARE"
+  tokenId: 6f0d96ecfeee36fae7c23ce37d11194ac51b5412a8102cc8ac66a3cea957eaa2
+- name: "THE KROWELL RARE"
+  tokenId: 7ae134d70aa78b8e498dd11720456896bc971d67cda88685879983517a8e748f
+- name: "CYTALIK ULTRA RARE"
+  tokenId: c3b4768b7f0733639e5d016a39efda1e3e832d3417f8d00dbf6c5ecf10ff82d3
+- name: "HOSKINAUT ULTRA RARE"
+  tokenId: b0e2ffe45a5c5d6cc33036bffc21696ba34b2f2b51b59aa1724afede71cbba8c
+- name: "KUSHY KUSHTI ULTRA RARE"
+  tokenId: b0f98d8492876f3557f462db087a7920230165ff15fa245b36a4655393fe1709
+- name: "LUMBER JOE ULTRA RARE"
+  tokenId: 63e92413e4516b66eb275e8fff1bfc69bf835d571dcae02a17feda8f2b133bb6
+- name: "LUNAGRATZ ULTRA RARE"
+  tokenId: 67e3e23661d5b450286afd04f7d97e857e233329b1e1b1a84317cd46c18a55c8
+- name: "SB ELLISON ULTRA RARE"
+  tokenId: b46bab292977e3378fb09bf30d7628e8d488eddb5175e53574ea55f54b497fe9
+- name: "SCARY GARY ULTRA RARE"
+  tokenId: c25a51b25e761acf5d56954cf1a678c0226ecb8616787ef1980a6f540ae3b640
+- name: "SHITCOIN KING ULTRA RARE"
+  tokenId: df8e1f2260f78199afefd3794ed6d527630aa28fec1af34913f48df1f4c6bfc5
+- name: "TEA-MAN DAN ULTRA RARE"
+  tokenId: 2f9cfc1dc96d3668957673ac0ed1b4a1c62e44cbc940f65827f787d34bc4e8c1
+- name: "THE KROWELL ULTRA RARE"
+  tokenId: 213c853383e03cedf0ded4d83aa5e44e1d5c8e1ed2f2482a419d5dad155b8975
