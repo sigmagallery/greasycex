@@ -232,3 +232,32 @@ nfts:
     "Status Card Achieved for hodl'ing 500K GreasyCEX prior to Stage 3 of Greasy Mission #1"
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeif3smvcvur3lw66iuhqoy35pwog6u4vwg2iro5r5djlj4tecglkhi
+- tokenId: 99ce5dd65d70214f8554259f6b00699ee54674b12df1bf2f4f122bf4cd8a6445
+  name: GREASE LORD STATUS CARD 1 MILLION
+  description: >-
+    Status Card earned for hodl'ing 1 Million GreasyCEX prior to Stage 4 of
+    Greasy Mission #1
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidjxswvvoiahkyxytwhapdpt6pfgn3463rbbfpos4ggxrd3elwf2q
+- tokenId: e54b2d3e2b5ac9ceb40b49d99c762f27cdd8d43481b483f926c95dd8748bdc4c
+  name: SIGMA QX LEGENDARY
+  description: >-
+    SIGMA QX Legendary Card is rewarded for acquiring the entire set of 30
+    ErgoFans Cards that were rewarded during Greasy Mission #1.
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidaxhgmwyuihjoz2tmtmydyozhbic32wxapql5luneuphvrttxvvy
+- tokenId: 29482d50b27c48dc5e968317282108c307a6cfaea11d1e5bfd0d833f4c295d6b
+  name: SIGMA QX LEGENDARY RARE
+  description: >-
+    SIGMA QX Legendary Rare Card is rewarded for acquiring the entire set of 30
+    ErgoFans Cards that were rewarded during Greasy Mission #1.
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiguw2ulvs5lxidebh2yeokoyb3bain4n66lgql3mjsnjivrxx2jru
+- tokenId: 51a349d7d1613ecb2023bfcb1a15cc83b274ebfeaf54b533ca97eecf20cf5b30
+  name: SIGMA QX LEGENDARY ULTRA RARE
+  description: >-
+    SIGMA QX Legendary Ultra Rare Card is rewarded for acquiring the entire set
+    of 30 ErgoFans Cards that were rewarded during Greasy Mission #1.
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidgwcqphtcl4ia3d7opqgljzj6plrvfwowuespwccbgvr5puadoyq
+format: gif
