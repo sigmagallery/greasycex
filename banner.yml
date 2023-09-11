@@ -15,5 +15,5 @@ bannerLinks:
     url: https://greasycex.com/
     icon: fa-solid fa-globe fa-fw
   - label: Wallet
-    url: ../wallet
+    url: /wallet
     icon: fa-solid fa-wallet fa-fw
